@@ -6,3 +6,13 @@ An ECG (Electrocardiogram) circuit works by detecting and amplifying the tiny el
 The files include the Altium project and Gerber files.
 
 The directory watch_version includes a design of a wearable version of the ECG circuit.
+
+![3D preview of the design](./3d.PNG)
+
+![Photo of the printed and soldered boarc](./PHOTO.jpg)
+
+![Bottom photo](./GND.jpg)
+
+![Top](./top.PNG)
+
+![Bottom](./bottom.PNG)
